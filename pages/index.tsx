@@ -25,13 +25,9 @@ const Home: NextPage = () => {
             {process.env.NEXT_PUBLIC_NFT_NAME}
           </h1>
           <p className="text-xl">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
+                      Welcome to Faces. This is my first foray into the world of NFT's, and this is step one of learning about the potential uses of smart contracts.
+                      Faces complies with the ERC721 standard, so they are all as unique as we are. Mint one of my many faces.
+                       
           </p>
         </Prose>
       </div>
