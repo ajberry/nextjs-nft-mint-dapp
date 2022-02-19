@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\components",
+    "\\context",
+    "\\contract",
+    "\\pages",
+    "\\styles",
+    "\\utils",
+    "\\utils\\wallet"
+  ],
+  "SelectedNode": "\\components\\Faq.tsx",
+  "PreviewInSolutionExplorer": false
+}

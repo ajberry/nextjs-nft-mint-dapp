@@ -1,25 +1,17 @@
 export default function Roadmap() {
   return (
     <>
-      <h2 className="text-4xl mb-4">Roadmap</h2>
+      <h2 className="text-4xl mb-4">Credit</h2>
       <ul className="list-disc pl-5 space-y-2 mb-4">
         <li>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+                  I need to thank Koji Mochizuki (<a href="https://twitter.com/kjmczk" target="_blank" rel="noreferrer">@kjmczk</a>)
+                  for both his medium article and this website template being provided. It is a super helpful entry point and has taught me loads.
+                  I mainly referred to his <a href="https://medium.com/technest/how-to-launch-an-nft-project-by-yourself-252a7fefa748" target="blank">Medium Article</a>
+                  which is an end to end guide on how to launch an NFT project
         </li>
         <li>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+                  I also need to thank <a href="https://twitter.com/hashlipsnft" target="_blank" rel="noreferrer">@hashlipsnft</a>. I used their smart contract as a base
+                  and is another valuable resource into learning about Web3 from a technical point of view. 
         </li>
       </ul>
     </>

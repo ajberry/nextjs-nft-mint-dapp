@@ -6,7 +6,7 @@ type Props = {
 };
 
 const meta = {
-  description: `${process.env.NEXT_PUBLIC_NFT_NAME} is an NFT collection of 10,000 unique characters.`,
+  description: `${process.env.NEXT_PUBLIC_NFT_NAME} is an NFT collection of 50 versions of my face...`,
   ogImagePath: '/assets/card-image.png',
 };
 
@@ -16,7 +16,7 @@ export default function Meta({ pageTitle }: Props) {
   const ogType = router.pathname === '/' ? 'website' : 'article';
   const ogTitle = pageTitle
     ? pageTitle
-    : 'An NFT collection of 10,000 unique characters';
+    : 'An NFT collection of 50 of my faces';
   const ogImage = process.env.NEXT_PUBLIC_SITE_URL + meta.ogImagePath;
 
   return (
