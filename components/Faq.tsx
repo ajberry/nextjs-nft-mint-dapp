@@ -22,7 +22,7 @@ export default function Faq() {
           </p>
           <h3 className="text-2xl mb-2">How do I bridge tokens onto the Polygon network</h3>
           <p>
-             <a href="https://www.youtube.com/watch?v=Eg1ehrx1ndk" target="_blank">Watch the YouTube video (by RemixMTG)</a>
+                      <a href="https://www.youtube.com/watch?v=Eg1ehrx1ndk" target="_blank" rel="noreferrer">Watch the YouTube video (by RemixMTG)</a>
           </p>
           <h3 className="text-2xl mb-2">Where are the images stroed</h3>
           <p>
